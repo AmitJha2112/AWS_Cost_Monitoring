@@ -145,5 +145,12 @@ crontab -e
 
 
 
+📧 **Connect with me:**
 
+- **GitHub**: [amitjha2112](https://github.com/amitjha2112)   
+- **LinkedIn**: [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-55b112216/)  
 
+---
+
+⭐ Support the Project
+If you found this helpful, consider starring ⭐ the repository and sharing it with your network! 🚀
